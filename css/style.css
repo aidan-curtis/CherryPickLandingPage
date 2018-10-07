@@ -50,7 +50,7 @@ p {
 }
 
 strong {
-  color: #fcf00a;
+  color: #FF0000;
   font-weight: 700;
 }
 
@@ -254,8 +254,12 @@ footer {
     transition: all 0.4s ease-in-out;
 }
 
+.address{
+    color: #C93144;
+}
+
 #home .btn:hover {
-  background: #f1c11a;
+  background: #C93144;
   color: #ffffff;
   border-color: transparent;
 }
@@ -279,7 +283,7 @@ footer {
 
 /* feature section */
 #feature {
-  background: #f1c11a;
+  background: #C93144;
 }
 
 #feature .icon {
@@ -344,7 +348,7 @@ footer {
 }
 
 #contact input[type='submit']:hover {
-  background: #f1c11a;
+  background: #C93144;
 }
 
 /* thankyou section */
@@ -353,7 +357,7 @@ footer {
 }
 
 #thankyou form .button {
-  background: #f1c11a;
+  background: #C93144;
   border: 1px solid #f0f0f0;
   border-radius: 100px;
   box-shadow: none;
@@ -419,7 +423,7 @@ footer a:hover {
 }
 
 .modal-dialog .close {
-  color: #f1c11a;
+  color: #C93144;
   font-size: 40px;
   font-weight: 300;
   text-shadow: none;
@@ -473,7 +477,7 @@ footer a:hover {
   margin-top: 30px;
 }
 .modal-dialog form input[type="submit"]:hover {
-  background: #f1c11a;
+  background: #C93144;
   border-color: transparent;
   color: #ffffff;
 }
@@ -497,7 +501,7 @@ footer a:hover {
 }
 
 #mailchimp h4 {
-	color: #f1c11a;
+	color: #C93144;
 	font-size: large;
 }
 
@@ -519,7 +523,7 @@ footer a:hover {
 }
 
 .go-top:hover {
-    background: #f1c11a;
+    background: #C93144;
     color: #ffffff;
 }
 
